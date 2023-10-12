@@ -1,0 +1,85 @@
+body { 
+background-image: url("https://th.bing.com/th/id/R.87e071beecc102a1e1843ce8c0e0a9d4?rik=pByoP98rq%2f2FSw&pid=ImgRaw&r=0"); 
+background-size: cover; 
+font-family: 'Open Sans', 'Helvetica Neue', sans-serif; 
+text-align: center; 
+height: 100vh; 
+margin-top: 50px; 
+} 
+
+.container { 
+max-width: 600px; 
+margin: auto; 
+border: 3px solid cadetblue; 
+border-radius: 25px; 
+} 
+
+h1 { 
+font-family: 'Times New Roman', Times, serif; 
+color: cyan; 
+margin-top: 10px; 
+margin-bottom: 10px; 
+} 
+
+h2 { 
+color: cyan; 
+font-size: 50px; 
+margin-top: 0; 
+margin-bottom: 20px; 
+} 
+
+button { 
+font-family:'Times New Roman', Times, serif; 
+color: white; 
+font-weight: bold; 
+font-size: 30px; 
+width: 150px; 
+margin-bottom: 10px; 
+border: 3px solid cyan; 
+border-radius: 35px; 
+} 
+
+#increment-btn { 
+display: block;
+margin-left: auto; 
+margin-right: auto; 
+font-size:45px; 
+font-family: sans-serif; 
+color: black; 
+background: none; 
+} 
+
+#decrease-btn { 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    font-size: 45px; 
+    font-family: fantasy; 
+    color: red; 
+    border-color: red; 
+    background: none; 
+} 
+
+#save-btn { 
+    font-size: 20px; 
+    width: 100px; 
+    padding-top: 3px; 
+    border: none; 
+    background: cadetblue; 
+} 
+
+#save-el { 
+    color: cyan; 
+    font-weight: bold;  
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 145%; 
+    background: none; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    max-width: 550px;
+    border: 1px solid cadetblue; 
+    border-radius: 8px; 
+} 
+
+ 
